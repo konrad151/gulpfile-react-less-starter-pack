@@ -1,7 +1,7 @@
 {
   "name": "gulpfile-react-less-starter-pack",
   "version": "1.0.0",
-  "description": "React starter pack, Compile ES6, modules support(browserify) and minify JavaScript; Concat and compile Less to CSS, minify CSS",
+  "description": "React starter pack, React rendering, Compile ES6(babelify), modules support(browserify) and minify JavaScript(uglify); Concat and compile Less to CSS, minify CSS",
   "main": "gulpfile.js",
   "author": "Konrad Kacprzyk",
   "license": "ISC",
