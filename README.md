@@ -18,8 +18,8 @@ Install the dependencies
 $ npm install
 ```
 ### Run gulp
-Run Gulp tasks with browserSync,
-gulp will be watching your JS files from app/src/js/*.js and LESS files from app/src/less/*.less,
+Run Gulp tasks with browserSync,<br />
+gulp will be watching your JS files from app/src/js/*.js and LESS files from app/src/less/*.less,<br />
 every saved change will be compiled into app/dist directory
 ```
 $ gulp
